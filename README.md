@@ -6,6 +6,15 @@
 
 > This is a typora theme inspired by [Vue](http://vuejs.org/) document style.
 
+## ✔️My work
+
+- 👨🏻‍💻Modified h3 style based on vue-theme to make h4 style differentiation more obvious。
+- 📟select `Theme` → `Vue` or `Vue Dark` from the menu bar.
+
+![vuem主题效果图](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203220019428.jpg)
+
+![vuem-dark](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203220018950.jpg)
+
 ## Introduction
 
 [Typora](https://www.typora.io/) is a markdown editor and reader that supports real-time preview. It supports `Windows`, `macOS`, `Linux` platforms. Typora is a qualified Markdown editor that supports images, lists, tables, codes, formulas, catalogs, etc. At the same time, typora also supports (one-click) dynamic preview function, so that everything becomes so clean and pure. And there are various theme templates. **[typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) inspired by [Vue](https://vuejs.org/) document style**.

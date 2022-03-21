@@ -6,6 +6,18 @@
 
 > 这是 Typora Markdown 编辑器的类似 Vue 文档风格的自定义主题。
 
+## ✔️我做了什么
+
+- 👨🏻‍💻我修改h3样式,使得h3和h4样式区分更明显。
+
+- 📟从菜单栏中选择 “**主题**” => “**Vuem**” 或者 “**Vuem Dark**” 即可。
+
+![vuem主题效果图](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203220019428.jpg)
+
+![vuem-dark主题效果图](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203220018950.jpg)
+
+
+
 ## 简介
 
 [Typora](https://www.typora.io/)是一款支持实时预览的 Markdown 编辑器和阅读器，支持`Windows`、`macOS`、`Linux`三大平台。Typora 作为一款合格的 Markdown 编辑器，支持图片、列表、表格、代码、公式、目录等功能，同时这款软件还支持（一键）动态预览功能，让一切都变得如此干净、纯粹。并且有多种主题模板。**[typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)就是参考了[Vue](https://vuejs.org/)文档风格而开发的一个 Typora 自定义主题**。
