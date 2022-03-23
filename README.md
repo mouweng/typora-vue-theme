@@ -9,7 +9,7 @@
 ## ✔️My work
 
 - 👨🏻‍💻Modified h3 style based on vue-theme to make h4 style differentiation more obvious。
-- 📟select `Theme` → `Vue` or `Vue Dark` from the menu bar.
+- 📟select `Theme` → `Vuem` or `Vuem Dark` from the menu bar.
 
 ![vuem主题效果图](https://cdn.jsdelivr.net/gh/mouweng/FigureBed/img/202203220019428.jpg)
 
